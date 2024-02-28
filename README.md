@@ -1,9 +1,6 @@
 ### Hi there 👋. I'm Luis Rodriguez
-<div style="display: flex;">
-  <p style="flex: 1;">I am an enthusiastic and ambitious individual who thrives on learning and embracing new challenges. Over my thirteen-year tenure as a teacher, I honed valuable skills such as meticulous attention to detail, the ability to dissect complex problems, effective communication, and creative problem-solving. These skills have proven invaluable in my transition to a full-stack developer, a field where I discovered a spark that reignited my passion and motivation for continuous learning and skill enhancement.</p>
-  <img src="https://farm3.static.flickr.com/2515/3911058195_c806128b89_m.jpg" alt="Luis Rodriguez" style="margin-left: 10px; width: 150px; height: auto;">
-</div>
-<hr>
+![Luis Rodriguez](https://farm3.static.flickr.com/2515/3911058195_c806128b89_m.jpg)
+*I am an enthusiastic and ambitious individual who thrives on learning and embracing new challenges. Over my thirteen-year tenure as a teacher, I honed valuable skills such as meticulous attention to detail, the ability to dissect complex problems, effective communication, and creative problem-solving. These skills have proven invaluable in my transition to a full-stack developer, a field where I discovered a spark that reignited my passion and motivation for continuous learning and skill enhancement.*
 <!--
 **LuisValrod/LuisValrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
