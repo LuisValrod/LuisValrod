@@ -1,4 +1,5 @@
-### Hi, I'm Luis Rodriguez 👋
+### Hi there 👋. I'm Luis Rodriguez
+<hr>
 
 <!--
 **LuisValrod/LuisValrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
