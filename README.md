@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Luis Rodriguez
+### Hi there 👋. I'm Luis Rodriguez  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ```javascript
 const luisValrod = {
   pronouns: "he" | "his",
