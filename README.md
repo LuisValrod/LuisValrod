@@ -1,4 +1,13 @@
 ### Hi there 👋. I'm Luis Rodriguez
+```javascript
+const luisValrod = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Node, Jest],
+  techCommunities: 'School of Code'
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python"
+}
+```
 <!--![Luis Rodriguez](https://farm3.static.flickr.com/2515/3911058195_c806128b89_m.jpg)
 I am an enthusiastic and ambitious individual who thrives on learning and embracing new challenges. Over my thirteen-year tenure as a teacher, I honed valuable skills such as meticulous attention to detail, the ability to dissect complex problems, effective communication, and creative problem-solving. These skills have proven invaluable in my transition to a full-stack developer, a field where I discovered a spark that reignited my passion and motivation for continuous learning and skill enhancement.*!-->
 <!--
