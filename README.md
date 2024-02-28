@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Luis Rodriguez
 <hr>
-<img src='https://farm3.static.flickr.com/2515/3911058195_c806128b89_m.jpg'>
+<img src='https://farm3.static.flickr.com/2515/3911058195_c806128b89_m.jpg' style='float:left'>
 
 <!--
 **LuisValrod/LuisValrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
