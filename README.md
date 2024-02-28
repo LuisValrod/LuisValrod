@@ -1,13 +1,16 @@
 <h2> Hi there 👋. I'm Luis Rodriguez <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<img align='right' src="https://farm3.static.flickr.com/2515/3911058195_c806128b89_m.jpg" width="230">
+<p>Former Rockstar 😅, I'm now someone who's always up for learning new things and taking on challenges. During my thirteen years as a teacher, I developed some pretty useful skills like paying close attention to detail, tackling complex problems, communicating effectively, and getting creative with solutions. These skills have been super helpful in my switch to becoming a full-stack developer. It's a field where I found a spark that reignited my passion and motivation for continuous learning and skill enhancement. </p>
 
-### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms1M2RmaGlnejQ4aDFvZHpsZWxtMTYzZm8waWUxa2dzYXoxcHU3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif)" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif?cid=82a1493bbma3ld2unlldors0k83q40re7ssqu1pponr6fks5&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="50"> A little more about me...  
 ```javascript
 const luisValrod = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Jest],
   techCommunities: 'School of Code'
- challenge: "I am doing the #100DaysOfCode challenge focused on Python"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python, Numpy, Pandas, and
+ visualization libraries for Data Science."
 }
 ```
 <!--![Luis Rodriguez](https://farm3.static.flickr.com/2515/3911058195_c806128b89_m.jpg)
