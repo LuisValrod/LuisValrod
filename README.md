@@ -1,4 +1,6 @@
-### Hi there 👋. I'm Luis Rodriguez  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there 👋. I'm Luis Rodriguez <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
+### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms1M2RmaGlnejQ4aDFvZHpsZWxtMTYzZm8waWUxa2dzYXoxcHU3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif)" width="50"> A little more about me...  
 ```javascript
 const luisValrod = {
   pronouns: "he" | "his",
