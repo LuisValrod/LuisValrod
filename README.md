@@ -9,8 +9,8 @@ const luisValrod = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Jest],
   techCommunities: 'School of Code'
- challenge: "I am doing the #100DaysOfCode challenge focused on Python, Numpy, Pandas, and
- visualization libraries for Data Science."
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python, Numpy, Pandas,
+ and visualization libraries for Data Science."
 }
 ```
 <!--![Luis Rodriguez](https://farm3.static.flickr.com/2515/3911058195_c806128b89_m.jpg)
