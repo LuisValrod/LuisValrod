@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Luis Rodriguez
 <hr>
-<div>
+<div style='display: flex'>
   <p style='float:left'>I am an enthusiastic and
 ambitious individual who thrives
 on learning and embracing new
