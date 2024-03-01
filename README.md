@@ -6,8 +6,8 @@
 ```javascript
 const luisValrod = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Jest],
+  code: [Javascript, Typescript, HTML, CSS, Python, SQL],
+  tools: [React, Node, Jest, Figma, Canvas, Playwrigth, Supertest],
   techCommunities: 'School of Code'
  challenge: "I am doing the #100DaysOfCode challenge focused on Python, Numpy, Pandas,
  and visualization libraries for Data Science."
